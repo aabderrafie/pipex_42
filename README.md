@@ -1,6 +1,3 @@
-Sure! Here is a detailed README file for your pipex project on GitHub:
-
----
 
 # Pipex
 
