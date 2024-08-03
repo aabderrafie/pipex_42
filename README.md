@@ -121,7 +121,7 @@ You can earn extra points by implementing the following features:
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone git@github.com:aabderrafie/pipex_42_Cursus.git
+git clone https://github.com/aabderrafie/pipex_42_Cursus.git
 cd pipex
 ```
 
