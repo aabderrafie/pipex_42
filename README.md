@@ -156,7 +156,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 Special thanks to the 42 Network and all the peer reviewers who helped make this project a success.
-
----
-
-Feel free to adjust the repository URL and any other specifics as needed.
